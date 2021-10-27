@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jothi1981
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning sensor networks
+- 🌱 I’m currently learning sensor networks project
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
 
